@@ -11,7 +11,7 @@
         "bottom_visible": "no",
         "msg_visible": "yes",
         "score_visible": "yes",
-        "default_link": "{\"name\":\"Server 1\",\"subTitle\":\"Live\",\"link\":\"https:\\\/\\\/otte.cache.aiv-cdn.net\\\/bom-nitro\\\/live\\\/clients\\\/dash\\\/enc\\\/cjglydxghe\\\/out\\\/v1\\\/8977baf175da4b94873194613dd3fe55\\\/cenc.mpd|user-agent=Mozilla\\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\\/537.36 (KHTML, like Gecko) Chrome\\\/149.0.0.0 Safari\\\/537.36\",\"api\":\"85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0\",\"tokenApi\":\"\",\"scheme\":0}",
+        "default_link": "{\"name\":\"Server 1\",\"subTitle\":\"Live Now\",\"link\":\"https:\\\/\\\/otte.cache.aiv-cdn.net\\\/bom-nitro\\\/live\\\/clients\\\/dash\\\/enc\\\/cjglydxghe\\\/out\\\/v1\\\/8977baf175da4b94873194613dd3fe55\\\/cenc.mpd|user-agent=Mozilla\\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\\/537.36 (KHTML, like Gecko) Chrome\\\/149.0.0.0 Safari\\\/537.36\",\"api\":\"85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0\",\"tokenApi\":\"\",\"scheme\":0}",
         "cat_icons": "{\"Basketball\":\"https:\\\/\\\/media1.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUyeTA5ZHI4b3pja2cwMnV3anVucmZhc2dva3JyMDBxOGp6YXp5aTlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/P4qikJCbW7rpkhrgyv\\\/giphy.gif\",\"American football\":\"https:\\\/\\\/gifdb.com\\\/images\\\/thumbnail\\\/nfl-kyler-murray-meditating-btrs3olscils8qkn.gif\",\"Baseball\":\"https:\\\/\\\/media4.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUydTFybXFrZWltMzlwcXYxZm53cnV6c2lqdGs2czMzYW1ibnB4ZTNqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/5rQ53m0h0vMeArGDgx\\\/giphy.gif\"}"
     }
 ]
